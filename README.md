@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-## Github Stats
+<div align="center">
+  <h2>GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihye1006&show_icons=true&theme=graywhite" alt="Jihye's GitHub stats">
+</div>
 
-![Jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye1006&show_icons=true&theme=graywhite)
