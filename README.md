@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jihye's%20Github&animation=&fontColor=000000&fontSize=50" />
     </div>
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
+-->
