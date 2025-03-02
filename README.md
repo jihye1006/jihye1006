@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     </div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=jihye1006&show_icons=true&theme=graywhite" alt="Jihye's GitHub stats">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihye1006&layout=compact&theme=dracula)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihye1006)](https://github.com/jihye1006/github-readme-stats)
+
 </div>
 
