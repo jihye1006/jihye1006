@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Jihye's%20Github&animation=&fontColor=000000&fontSize=50" />
     </div>
-    
-<div align="center">
-  <h2>GitHub Stats</h2>
+
   <img src="https://github-readme-stats.vercel.app/api?username=jihye1006&show_icons=true&theme=graywhite" alt="Jihye's GitHub stats">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jihye1006&layout=compact&theme=dracula)
 </div>
 
